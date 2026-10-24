@@ -1,0 +1,31 @@
+# Maven & Java
+target/
+*.class
+*.jar
+*.war
+.m2/
+.mvn/wrapper/maven-wrapper.jar
+
+# Node.js & React
+node_modules/
+dist/
+.vite/
+*.local
+
+# Environment variables & Local configuration
+.env
+*.env.local
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
